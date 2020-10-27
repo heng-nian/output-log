@@ -1,0 +1,22 @@
+{
+  "name": "output-log",
+  "version": "1.0.0",
+  "description": "一个简单的node.js的控制台输出进度条和颜色的模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heng-nian/output-log.git"
+  },
+  "keywords": [
+    "console.log"
+  ],
+  "author": "heng-nian",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/heng-nian/output-log/issues"
+  },
+  "homepage": "https://github.com/heng-nian/output-log#readme"
+}
